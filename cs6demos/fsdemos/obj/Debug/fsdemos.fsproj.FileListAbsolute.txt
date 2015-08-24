@@ -1,0 +1,8 @@
+c:\projects\cs6demos\cs6demos\fsdemos\bin\Debug\fsdemos.exe.config
+c:\projects\cs6demos\cs6demos\fsdemos\bin\Debug\fsdemos.XML
+c:\projects\cs6demos\cs6demos\fsdemos\bin\Debug\fsdemos.exe
+c:\projects\cs6demos\cs6demos\fsdemos\bin\Debug\fsdemos.pdb
+c:\projects\cs6demos\cs6demos\fsdemos\bin\Debug\FSharp.Core.dll
+c:\projects\cs6demos\cs6demos\fsdemos\bin\Debug\FSharp.Core.xml
+c:\projects\cs6demos\cs6demos\fsdemos\obj\Debug\fsdemos.exe
+c:\projects\cs6demos\cs6demos\fsdemos\obj\Debug\fsdemos.pdb
