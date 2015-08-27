@@ -1,8 +1,0 @@
-c:\projects\cs6demos\cs5demos\bin\Debug\cs5demos.exe.config
-c:\projects\cs6demos\cs5demos\bin\Debug\cs5demos.exe
-c:\projects\cs6demos\cs5demos\bin\Debug\cs5demos.pdb
-c:\projects\cs6demos\cs5demos\bin\Debug\System.Net.Http.dll
-c:\projects\cs6demos\cs5demos\bin\Debug\System.Net.Http.xml
-c:\projects\cs6demos\cs5demos\obj\Debug\cs5demos.exe
-c:\projects\cs6demos\cs5demos\obj\Debug\cs5demos.pdb
-c:\projects\cs6demos\cs5demos\obj\Debug\cs5demos.csprojResolveAssemblyReference.cache

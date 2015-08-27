@@ -1,5 +1,0 @@
-c:\projects\cs6demos\cs6demos\bin\Debug\cs6demos.exe.config
-c:\projects\cs6demos\cs6demos\bin\Debug\cs6demos.exe
-c:\projects\cs6demos\cs6demos\bin\Debug\cs6demos.pdb
-c:\projects\cs6demos\cs6demos\obj\Debug\cs6demos.exe
-c:\projects\cs6demos\cs6demos\obj\Debug\cs6demos.pdb

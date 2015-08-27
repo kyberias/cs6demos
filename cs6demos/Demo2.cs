@@ -6,5 +6,6 @@ namespace cs6demos
     class Demo2
     {
         public Guid Id { get; set; } = Guid.NewGuid();
+        public string Name { get; set; } = "Default Name";
     }
 }
