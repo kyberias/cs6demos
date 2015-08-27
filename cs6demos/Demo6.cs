@@ -2,16 +2,42 @@
 
 namespace cs6demos
 {
+    class ClassWithTwoIndexers
+    {
+        public string this[int key]
+        {
+            get
+            {
+                return "";
+            }
+            set
+            {
+
+            }
+        }
+
+        public string this[string key]
+        {
+            get
+            {
+                return "";
+            }
+            set
+            {
+
+            }
+        }
+    }
+
     class Demo6
     {
         // Index Initializers
         public Demo6()
         {
-            var placesByZip = new Dictionary<string, string>
+            var obj = new ClassWithTwoIndexers
             {
-                ["01200"] = "Vantaa",
-                ["00940"] = "Helsinki",
-                ["00380"] = "Helsinki"
+                [1] = "joo",
+                ["joo"] = "joo",
             };
 
             // Calls placesByZip[index] = "value" ?

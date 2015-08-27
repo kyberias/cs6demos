@@ -19,6 +19,7 @@ namespace cs5demos
             set
             {
                 address = value;
+
                 NotifyPropertyChanged(() => Address);
             }
         }

@@ -6,6 +6,8 @@
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
+        Demo5 demo;
+
         public string Name
         {
             get

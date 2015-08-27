@@ -6,7 +6,7 @@ namespace cs5demos
     {
         public Demo6()
         {
-            var placesByZip = new Dictionary<string, string>
+            var placesByZip = new Dictionary<object, string>
             {
                 { "01200", "Vantaa" },
                 { "00940", "Helsinki" },
